@@ -14,4 +14,4 @@ logs
 *.log
 
 # PRODUCTION
-dist
+# dist
