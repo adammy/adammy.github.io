@@ -1,0 +1,17 @@
+# OS-GENERATED FILES
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Thumbs.db
+
+# PACKAGE MANAGERS
+bower_components
+node_modules
+
+# LOGS
+logs
+*.log
+
+# PRODUCTION
+dist
